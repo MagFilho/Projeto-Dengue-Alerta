@@ -40,6 +40,6 @@ Este repositório contém um sistema integrado de monitoramento epidemiológico 
    ```bash
    pip install dbfread openmeteo-requests requests-cache retry
    ```
-2. **Caso haja instabilidade na fonte por onde os dados são baixados e eles não baixem automaticamente, baixe os arquivos "arboviroses_dengue_2025.csv" e "inmet_2025.zip" disponíveis neste repositório, em seguida arraste para a aba de arquivos dentro do colab    
+2. Caso haja instabilidade na fonte por onde os dados são baixados e eles não baixem automaticamente, baixe os arquivos "arboviroses_dengue_2025.csv" e "inmet_2025.zip" disponíveis neste repositório, em seguida arraste para a aba de arquivos dentro do colab    
 3. **Selecionar a Estação Meteorológica:** Interaja com o menu interativo gerado por widgets para digitar e escolher sua cidade (Ex: *Mossoró - RN*, *Belo Horizonte - MG*, *Porto Alegre - RS*).
 4. **Executar as Células Subsequentes:** O código irá filtrar as notificações do DATASUS para o estado correspondente da estação escolhida e plotar as matrizes de correlação de Pearson e os gráficos de monitoramento temporal.
