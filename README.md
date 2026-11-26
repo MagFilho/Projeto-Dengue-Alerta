@@ -1,4 +1,6 @@
 <img width="1717" height="673" alt="DengueAlerta(1)" src="https://github.com/user-attachments/assets/4d04d78f-4007-4654-a193-a00006b29d6e" />
+
+
 # 📌 Dengue Alerta: Monitoramento e Correlação Bioclimática (2025)
 
 Este repositório contém um sistema integrado de monitoramento epidemiológico que correlaciona notificações de Dengue com fatores meteorológicos críticos (temperatura média e precipitação) para o ano de **2025**. O principal objetivo é mapear janelas climáticas favoráveis à proliferação do vetor *Aedes aegypti* utilizando dados públicos reais das agências federais do Brasil.
