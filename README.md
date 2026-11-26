@@ -1,4 +1,5 @@
-<img width="2100" height="1500" alt="DengueAlerta" src="https://github.com/user-attachments/assets/5b6185c8-eb93-4a7c-a455-8431e3ce1d14" />
+<img width="1717" height="673" alt="DengueAlerta(1)" src="https://github.com/user-attachments/assets/4d04d78f-4007-4654-a193-a00006b29d6e" />
+
 
 # 📌 Dengue Alerta: Monitoramento e Correlação Bioclimática (2025)
 
