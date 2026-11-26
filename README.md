@@ -36,7 +36,7 @@ Este repositório contém um sistema integrado de monitoramento epidemiológico 
 
 ## 🚀 Como Executar no Colab
 
-1. **Instalar Dependências:** Execute a primeira célula do notebook para instalar as bibliotecas de processamento:  
-2. Caso haja instabilidade na fonte por onde os dados são baixados e eles não baixem automaticamente, baixe os arquivos "arboviroses_dengue_2025.csv" e "inmet_2025.zip" disponíveis neste repositório, em seguida arraste para a aba de arquivos dentro do colab    
-3. **Selecionar a Estação Meteorológica:** Interaja com o menu interativo gerado por widgets para digitar e escolher sua cidade (Ex: *Mossoró - RN*, *Belo Horizonte - MG*, *Porto Alegre - RS*).
-4. **Executar as Células Subsequentes:** O código irá filtrar as notificações do DATASUS para o estado correspondente da estação escolhida e plotar as matrizes de correlação de Pearson e os gráficos de monitoramento temporal.
+1. **Execute todas as células** para instalar as bibliotecas de processamento e baixar os dados dos respectivos bancos de dados 
+2. **Caso haja instabilidade na fonte** por onde os dados são baixados e eles não baixem automaticamente, baixe os arquivos "arboviroses_dengue_2025.csv" e "inmet_2025.zip" disponíveis neste repositório, em seguida arraste para a aba de arquivos que fica na esquerda da tela dentro do colab e Reexecute as células     
+3. **Selecionar a Estação Meteorológica:** Interaja com o menu interativo gerado por widgets na célula 3.2 para digitar e escolher sua cidade (Ex: *Mossoró - RN*, *Belo Horizonte - MG*, *Porto Alegre - RS*).
+4. **Reexecutar as Células Subsequentes:** Após trocar de cidade é necessário reexecutar as células para atualizar a saída do código 
